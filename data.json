@@ -1,0 +1,207 @@
+[
+    {
+        "id": 0,
+        "title": "Introductions",
+        "master_fp": "./Introductions/",
+        "lessons": [
+            {
+                "name": "First Day",
+                "lesson": "./Introductions/Day 1.pptx"
+            },
+            {
+                "name": "Sinking Ship Activity",
+                "lesson": "./Introductions/L2 - Sinking Ship.pptx",
+                "classwork": "./Introductions/L2 - Sinking Ship Activity.docx"
+            },
+            {
+                "name": "Primary Sources",
+                "lesson": "./Introductions/L5 - Primary Source.pptx"
+            },
+            {
+                "name": "Visual Sources",
+                "lesson": "./Introductions/L6 - Visual Sources.pptx",
+                "classwork": "./Introductions/L6 - Image Analysis Worksheet.doc"
+            }
+        ],
+        "assignments": [
+            {
+                "name": "Guns, Germs, and Steel Journal",
+                "material": "./GunsGermsAndSteel.pdf",
+                "assignment": "./Introductions/Guns Germs and Steel Journal.docx"
+            },
+            {
+                "name": "The Story Of Us",
+                "assignment": "./Introductions/The Story Of Us.docx"
+            },
+            {
+                "name": "What Is History?",
+                "assignment": "./Introductions/What is History.docx"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Paleolithic and Neolithic Era",
+        "master_fp": "./Paleolithic and Neolithic Era/",
+        "lessons": [
+            {
+                "name": "Paleolithic Man",
+                "lesson": "./Paleolithic and Neolithic Era/L1 - Paleolithic Man.pptx"
+            },
+            {
+                "name": "Neolithic Revolution",
+                "lesson": "./Paleolithic and Neolithic Era/L2 - Neolithic Revolution.pptx",
+                "classwork": "./Paleolithic and Neolithic Era/L2 - Reading.docx"
+            },
+            {
+                "name": "Paleo-Neo Survival Game",
+                "lesson": "./Paleolithic and Neolithic Era/L3 - Paleo-Neo Survival Game.pptx"
+            },
+            {
+                "name": "Early Man Debate",
+                "lesson": "./Paleolithic and Neolithic Era/L4 - Early Man Debate.pptx"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "River Valley Civilizations",
+        "master_fp": "./River Valley Civilizations/",
+        "lessons": [
+            {
+                "name": "Mesopotamia",
+                "lesson": "./River Valley Civilizations/Part1/L2 - Mesopotamia.pptx",
+                "classwork": "./River Valley Civilizations/Part1/L2 - Hammurabi.doc"
+            },
+            {
+                "name": "Ancient Egypt",
+                "lesson": "./River Valley Civilizations/Part1/L3 - Ancient Egypt.pptx"
+            },
+            {
+                "name": "Indus River Valley",
+                "lesson": "./River Valley Civilizations/Part1/L4 - Indus River Valley.pptx",
+                "classwork": "./River Valley Civilizations/Part1/L4 - READING.docx"
+            },
+            {
+                "name": "China's River Valley",
+                "lesson": "./River Valley Civilizations/Part1/L5 - China River Valley.pptx"
+            },
+            {
+                "name": "Maya",
+                "lesson": "./River Valley Civilizations/Part2/L1 - Maya.pptx"
+            },
+            {
+                "name": "Olmecs",
+                "lesson": "./River Valley Civilizations/Part2/L2 - Olmecs.pptx"
+            },
+            {
+                "name": "Oceanic Peoples",
+                "lesson": "./River Valley Civilizations/Part2/L3 - Oceanic Peoples.pptx"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Classical India",
+        "master_fp": "./Classical India/",
+        "key_terms": "Key Terms.docx",
+        "lessons": [
+            {
+                "name": "Indian Tradition",
+                "lesson": "./Classical India/L1 - Indian Tradition.pptx"
+            },
+            {
+                "name": "Buddhism",
+                "lesson": "./Classical India/L2 - Buddhism.pptx"
+            },
+            {
+                "name": "Maurya Empire",
+                "lesson": "./Classical India/L3 - Maurya Empire.pptx"
+            }
+        ],
+        "assignments": [
+            {
+                "name": "Maurya Empire Note Taker",
+                "material": "./Classical India/Voyages CH3 - India.pdf",
+                "assignment": "./Classical India/Maurya Empire Note Taker.docx"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Classical China",
+        "master_fp": "./Classical China/",
+        "key_terms": "Key Terms.docx",
+        "lessons": [
+            {
+                "name": "Classical China",
+                "lesson": "./Classical China/L1 - Classical China.pptx"
+            },
+            {
+                "name": "Dynastic Cycle / Warring States",
+                "lesson": "./Classical China/L2 - Dynastic Cycle - Warring States.pptx",
+                "classwork": "./Classical China/L2 - Art of War.docx"
+            },
+            {
+                "name": "Chinese Philosophies",
+                "lesson": "./Classical China/L3 - Chinese Philosophies.pptx",
+                "classwork": "./Classical China/L3 - Confucian & Daoist Documents.pdf"
+            },
+            {
+                "name": "The Qin Dynasty",
+                "lesson": "./Classical China/L4 - Qin Dynasty.pptx"
+            },
+            {
+                "name": "The Han Dynasty",
+                "lesson": "./Classical China/L5 - Han China - Society.pptx"
+            }
+        ],
+        "assignments": [
+            {
+                "name": "Textbook Reading - China",
+                "material": "./Classical China/Voyages CH4 - China.pdf"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Persia and Greece",
+        "master_fp": "./Persia and Greece/",
+        "lessons": [
+            {
+                "name": "Judaism",
+                "lesson": "./Persia and Greece/L1 - Judaism.pptx"
+            },
+            {
+                "name": "Persian Empire",
+                "lesson": "./Persia and Greece/L2 - Persian Empire.pptx",
+                "classwork": "./Persia and Greece/L2 - Persia Note Taker.docx"
+            },
+            {
+                "name": "Greek City States",
+                "lesson": "./Persia and Greece/L3 - Greek City States.pptx"
+            },
+            {
+                "name": "Greek Achievements",
+                "lesson": "./Persia and Greece/L4 - Greek Achievement.pptx"
+            },
+            {
+                "name": "Socrates",
+                "lesson": "./Persia and Greece/L5 - Socrates.pptx"
+            },
+            {
+                "name": "Alexander the Great",
+                "lesson": "./Persia and Greece/L6 - Alexander the Great.pptx"
+            },
+            {
+                "name": "Hellenism",
+                "lesson": "./Persia and Greece/L6 - Hellenism.pptx",
+                "classwork": "./Persia and Greece/L6 - Hellenistic Era Classwork.docx"
+            },
+            {
+                "name": "BONUS - Mr. Rerick Story Time (no context :D)",
+                "lesson": "./Persia and Greece/Mr. Rerick Story Time.pptx"
+            }
+        ]
+    }
+]
